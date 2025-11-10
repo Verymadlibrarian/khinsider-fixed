@@ -1,3 +1,7 @@
+just do 
+```cmd
+python khinsider.py --format flac/mp3 vgm-album-id-foundable-in-url-of-khinsider "path/to/album"
+```
 # khinsider.py
 
 `khinsider.py` is a [Python](https://www.python.org/) interface and script for getting [khinsider](http://downloads.khinsider.com/) soundtracks. It makes khinsider mass downloads a breeze. It's easy to use - check it!
